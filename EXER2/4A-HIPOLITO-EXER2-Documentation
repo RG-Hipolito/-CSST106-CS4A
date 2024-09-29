@@ -7,5 +7,6 @@
 
 ## 3) ORB went well, similar results to SIFT.
 ## 4) Feature Matching using SIFT was interesting, it was comparing and detecting specific details.
-## 5) Image Stitching using Homography did not display due to not enough matches
+## 5) Image Stitching using Homography did not display due to not enough matches.
+## 6) SURF and ORB could not be completed due to SURF needing OpenCV.
 
